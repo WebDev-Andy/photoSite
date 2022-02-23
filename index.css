@@ -3,17 +3,19 @@
 }
 
 body {
-    color: greenyellow;
+    
 }
 
-H1 {
-    
-    color: red;
+header h2 {
+    color: antiquewhite;
 }
-    
+
+h1 {
+
+}
+
 h2 {
-    color: green;
-
+    
 }
 
 body {
@@ -24,3 +26,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     }
+
+body h1 {
+    color: antiquewhite;
+}
