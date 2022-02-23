@@ -1,0 +1,26 @@
+* {
+    
+}
+
+body {
+    color: greenyellow;
+}
+
+H1 {
+    
+    color: red;
+}
+    
+h2 {
+    color: green;
+
+}
+
+body {
+    /* Location of the image for page */
+    background-image: url("media/lakeMiTall.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
